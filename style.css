@@ -1,0 +1,37 @@
+body{
+    padding:40px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.main
+{
+    padding:40px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+
+
+.education h3 {
+    display: inline;
+}
+
+span {
+    float: right;
+}
+
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+.Heading p {
+    text-align: center;
+}
+h2{color: blue;}
